@@ -2,6 +2,14 @@
   <a href="https://github.com/andradeannac">
 </div>
   
+### Anna Clara Andrade
+  
+  Comunicativa, determinada, comprometida e muito curiosa.<br>
+  Formada em Desenvolvimento web pela **Laboratória**<br>
+  Formada em Letras pela UFPA.
+  
+  ***
+  
 ### Linguagens e Ferramentas:
 
 <div style="display: inline_block"><br>
