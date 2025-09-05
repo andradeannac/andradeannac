@@ -6,7 +6,7 @@
   
   Comunicativa, determinada, comprometida e muito curiosa.<br>
   Formada em Desenvolvimento web pela **Laboratória**<br>
-  Formada em Letras pela UFPA.
+  Academica de Análise e Desenvolvimento de Sistemas pela **FIAP**.
   
   ***
   
