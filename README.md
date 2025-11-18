@@ -13,6 +13,7 @@
 ### Linguagens e Ferramentas:
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Anna-HTML" height="30" width="40" src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
   <img align="center" alt="Anna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Anna-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Anna-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
