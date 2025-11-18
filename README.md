@@ -5,7 +5,7 @@
 ### Anna Clara Andrade
   
   Comunicativa, determinada, comprometida e muito curiosa.<br>
-  Formada em Desenvolvimento web pela **Laboratória**<br>
+  Formada em Desenvolvimento web pela **Laboratória** e pela **Generation** <br>
   Academica de Análise e Desenvolvimento de Sistemas pela **FIAP**.
   
   ***
