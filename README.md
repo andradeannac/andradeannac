@@ -29,7 +29,7 @@
 ##
 
 <div align="center"> 
-  <a href="https://app.slack.com/client/T0NNB6T0R/C03LXJ10WJD/rimeto_profile/U03MUMBTQEB" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
+  <!-- <a href="https://app.slack.com/client/T0NNB6T0R/C03LXJ10WJD/rimeto_profile/U03MUMBTQEB" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a> -->
   <a href="mailto:andradeannac@gmail.com"_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="border-radius:50px;"></a>
  
   
